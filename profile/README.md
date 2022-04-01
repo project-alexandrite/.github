@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### AlexandriteOSとは
-![image](img/Alexandrite.png) <br>
+![image](https://github.com/project-alexandrite/.github/raw/main/profile/img/Alexandrite.png) <br>
  openSUSE tumbleweedベースの安定していて美しいLinuxディストリビューション
  
 ### beaverとは
